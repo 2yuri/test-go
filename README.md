@@ -4,7 +4,7 @@
 
 <a href="https://youtu.be/WERRMOcnX1c">
   <img src="https://img.shields.io/badge/-ASSSITA%20AQUI-black?style=for-the-badge&logo=youtube&color=red"></img>
-</>
+</a>
 
 - [x]  Criar nossa função de SUM
 - [x]  Criar os testes da função de sum
